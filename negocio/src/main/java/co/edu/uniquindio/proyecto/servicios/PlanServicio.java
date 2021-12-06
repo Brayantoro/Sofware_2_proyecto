@@ -6,6 +6,7 @@ import co.edu.uniquindio.proyecto.entidades.Usuario;
 
 import java.util.List;
 
+
 /**
  * @Description clase que determina la interfaz de un paln servicio
  */
